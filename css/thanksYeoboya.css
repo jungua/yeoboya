@@ -1,0 +1,1592 @@
+header .title_header .yeoboya-logo {
+    display: inline-block;
+    width: 50px;
+    height: 16px;
+    margin-left: 5px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_titlebar_yeoboya-logo.png') no-repeat 0 0;
+    background-size: cover
+}
+
+#thanks_board {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #e6e6e6
+}
+
+#thanks_board .contents-in {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #e6e6e6;
+    padding-top: 117px
+}
+
+#thanks_board .contents-in .path_writing-email-or-review {
+    display: block;
+    position: relative;
+    top: 0;
+    width: 100%;
+    height: 66px;
+    background-color: #ffd9d4;
+    background-image: -webkit-gradient(linear,left top,right bottom,from(#ffd9d4),to(#ffe0cc));
+    background-image: linear-gradient(to right,#ffd9d4,#ffe0cc)
+}
+
+#thanks_board .contents-in .path_writing-email-or-review .gradation_thin {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #f2cec9;
+    background-image: -webkit-gradient(linear,left top,right bottom,from(#f2cec9),to(#f2d5c2));
+    background-image: linear-gradient(to right,#f2cec9,#f2d5c2)
+}
+
+#thanks_board .contents-in .path_writing-email-or-review .ment {
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    width: 95%;
+    margin-left: -47.5%;
+    font-size: .85em;
+    color: #333;
+    line-height: .85em;
+    text-align: center;
+    letter-spacing: -0.05em
+}
+
+#thanks_board .contents-in .path_writing-email-or-review a.btn {
+    display: inline-block;
+    position: absolute;
+    bottom: 7px;
+    width: 108px;
+    height: 26px;
+    border: 1px solid #e59ea4;
+    -webkit-border-radius: 7px;
+    background-color: #eda4aa;
+    font-size: .92em;
+    font-weight: bold;
+    color: #fff;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.07em
+}
+
+#thanks_board .contents-in .path_writing-email-or-review a:active.btn {
+    border: 1px solid #e0929c;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    background-color: #e0929c
+}
+
+#thanks_board .contents-in .path_writing-email-or-review a.btn1 {
+    left: 50%;
+    margin-left: -118px
+}
+
+#thanks_board .contents-in .path_writing-email-or-review a.btn2 {
+    left: 50%;
+    margin-left: 10px
+}
+
+#thanks_board .contents-in .list1ea {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid #cacaca
+}
+
+#thanks_board .contents-in .list1ea .title {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #fff;
+    vertical-align: middle
+}
+
+#thanks_board .contents-in .list1ea .title .list_h {
+    position: absolute;
+    top: 50%;
+    height: 38.8px;
+    margin-top: -18px;
+    border-right: 2px solid #e0e0e0
+}
+
+#thanks_board .contents-in .list1ea .title .list_h .list_num {
+    display: block;
+    height: 1.4em;
+    border-radius: 2px;
+    font-style: italic;
+    text-align: center;
+    font-size: .75em;
+    line-height: 1.4em;
+    color: #7a7a7a
+}
+
+#thanks_board .contents-in .list1ea .title .list_h .mark {
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: -7px
+}
+
+#thanks_board .contents-in .list1ea .title img {
+    vertical-align: middle
+}
+
+#thanks_board .contents-in .list1ea .title p {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: auto;
+    height: auto;
+    margin: 0 34px 0 90px;
+    font-size: .9em;
+    font-weight: bold;
+    color: #374148;
+    letter-spacing: -1px;
+    line-height: 1.2em;
+    vertical-align: middle;
+    padding: 16px 0
+}
+
+#thanks_board .contents-in .list1ea .title p:after {
+    display: block;
+    content: "";
+    clear: both
+}
+
+#thanks_board .contents-in .list1ea .title .badge_new {
+    display: inline-block;
+    position: relative;
+    width: 28px;
+    height: 15px;
+    margin: -3px 0 0 5px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/badge_new.png) no-repeat 0 0;
+    background-size: cover;
+    vertical-align: middle
+}
+
+#thanks_board .contents-in .list1ea .title .cue_fold {
+    position: absolute;
+    top: 40%;
+    right: 9px;
+    margin-top: -10px;
+    vertical-align: middle
+}
+
+#thanks_board .contents-in .list1ea .opened {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding-top: 10px;
+    border-top: 1px solid #d9d9d9;
+    background-color: #f7f7f7
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-mail_head-info {
+    display: block;
+    position: relative;
+    margin: -2px 18px 7px 18px;
+    font-size: .8em;
+    color: #737373;
+    line-height: 1.685em;
+    letter-spacing: -0.05em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-mail_head-info .output {
+    position: absolute;
+    left: 58px;
+    color: #606060;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-mail_between-line {
+    display: block;
+    height: 1px;
+    margin: 0 13px;
+    background-color: #dedede
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-review_head-info {
+    display: block;
+    position: relative;
+    margin: 1px 18px 11px 18px;
+    font-size: .9em;
+    color: #374148;
+    line-height: .9em;
+    letter-spacing: 0
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-review_head-info .written-by {
+    line-height: 1.15em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-review_head-info .output {
+    font-size: .9em;
+    color: #606060;
+    letter-spacing: -0.02em;
+    vertical-align: top
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-review_head-info .output img {
+    margin: -1px 7px 0 0;
+    vertical-align: top
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-letter_head-info {
+    display: block;
+    position: relative;
+    margin: 1px 18px 12px 18px;
+    font-size: .8em;
+    color: #374148;
+    line-height: 1.685em;
+    letter-spacing: 0
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks-letter_head-info .output {
+    position: absolute;
+    left: 0;
+    color: #606060;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .message {
+    display: block;
+    position: relative;
+    overflow-x: hidden;
+    margin: 6px 19px 0 19px;
+    font-size: .875em;
+    color: #374148;
+    line-height: 1.55em;
+    letter-spacing: -0.05em
+}
+
+#thanks_board .contents-in .list1ea .opened .message img {
+    display: block;
+    margin: 8px auto 6px auto
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    margin: -3px 18px 7px 70px;
+    font-size: .85em;
+    color: #606060;
+    line-height: 1.5em;
+    letter-spacing: -0.05em;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 3px 0 0 9px;
+    width: 54px;
+    height: 54px;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    -webkit-border-radius: 50%;
+    border-radius: 50%
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in .thumnail_area {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    top: 3px;
+    left: 3px;
+    width: 48px;
+    height: 48px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #fff
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in .thumnail_area img {
+    width: 52px;
+    height: 52px;
+    margin: -2px 0 0 -2px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    object-fit: cover
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in .thumnail_area .layer_transparent-white {
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: 52px;
+    height: 52px;
+    margin: -2px 0 0 -2px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_photo-thum_layer_transparent-white.png') no-repeat 0 0;
+    background-size: 52px 52px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    margin: -3px 18px 7px 83px;
+    font-size: .85em;
+    color: #606060;
+    line-height: 1.35em;
+    letter-spacing: -0.05em;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .label {
+    margin-right: 6px;
+    color: #3e3e3e;
+    font-weight: bold;
+    letter-spacing: -0.075em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .label2 {
+    margin-right: 6px;
+    margin-left: 20px;
+    color: #3e3e3e;
+    font-weight: bold;
+    letter-spacing: -0.075em
+}
+
+@media all and (max-width: 359px) {
+    #thanks_board .contents-in .list1ea .opened .thanks_head-info2 {
+        margin:-3px 6px 7px 83px
+    }
+
+    #thanks_board .contents-in .list1ea .opened .thanks_head-info2 .label2 {
+        margin-left: 10px
+    }
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .vertical-line {
+    display: inline-block;
+    top: 0;
+    width: 1px;
+    height: .75em;
+    margin-left: 6px;
+    background-color: #5e5e5e
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in2 {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 3px 0 0 9px;
+    width: 66px;
+    height: 66px;
+    background-color: #fff;
+    border: 1px solid #dedede;
+    -webkit-border-radius: 50%;
+    border-radius: 50%
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in2 .thumnail_area2 {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    top: 3px;
+    left: 3px;
+    width: 60px;
+    height: 60px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #fff
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in2 .thumnail_area2 img {
+    width: 64px;
+    height: 64px;
+    margin: -2px 0 0 -2px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    object-fit: cover
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in2 .thumnail_area2 .layer_transparent-white2 {
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: 64px;
+    height: 64px;
+    margin: -2px 0 0 -2px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_photo-thum_layer_transparent-white.png') no-repeat 0 0;
+    background-size: 64px 64px
+}
+
+#thanks_board .contents-in .list1ea .opened .thumnail-in2 .photo-badge {
+    display: inline-block;
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    right: 0;
+    width: 24px;
+    height: 24px;
+    margin: -1px -2px 0 0;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_photo-badge.png') no-repeat 0 0;
+    background-size: 24px 24px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: -0.5px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .mg1 {
+    margin: 0 3px 0 1px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .nickname {
+    font-size: .975em;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .job {
+    margin-left: 8px;
+    font-size: .975em;
+    color: #523d75;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .date {
+    font-size: .975em;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .mask_1 {
+    color: #f7f7f7
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo {
+    display: block;
+    position: absolute;
+    top: 72px;
+    left: 13px;
+    width: 56px;
+    height: 20px
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo.bg1 {
+    background-color: #f7f7f7
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo.bg2 {
+    background-color: #ffd6db
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo .in {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 56px;
+    height: 20px
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo .in.c1 {
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_with-yeoboya-logo_c1.png') no-repeat 0 0;
+    background-size: 56px 20px
+}
+
+#thanks_board .contents-in .list1ea .opened .with-yeoboya-logo .in.c2 {
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_with-yeoboya-logo_c2.png') no-repeat 0 0;
+    background-size: 56px 20px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .date {
+    font-size: .975em;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_between-line2 {
+    display: block;
+    height: 1px;
+    margin: -3px 13px 0 43px;
+    background-color: #dedede
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info .mg1 {
+    margin: 0 3px 0 1px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info .info2 .mg2 {
+    margin: 0 2px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info .info2 .mg3 {
+    margin: 0 1px
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info .date {
+    font-size: .975em;
+    letter-spacing: -0.02em
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_between-line {
+    display: block;
+    height: 1px;
+    margin: -2px 13px 0 37px;
+    background-color: #dedede
+}
+
+#thanks_board .contents-in .list1ea .opened .message {
+    display: block;
+    position: relative;
+    overflow-x: hidden;
+    margin: 7px 13px 0 13px;
+    font-size: .875em;
+    color: #374148;
+    line-height: 1.55em;
+    letter-spacing: -0.05em;
+    padding-bottom: 7px
+}
+
+#thanks_board .contents-in .list1ea .opened .message img {
+    display: block;
+    margin: 8px auto 6px auto
+}
+
+#thanks_board .contents-in .list1ea .opened .message .stars {
+    display: block
+}
+
+#thanks_board .contents-in .list1ea .opened .message .stars img {
+    margin: 4px 0 9px 0
+}
+
+#thanks_board .contents-in .list1ea .photos_layer {
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    top: 100px;
+    left: 50%;
+    width: 296px;
+    height: auto;
+    margin: 6px 0 0 -148px;
+    padding: 0 0 30px 0
+}
+
+#thanks_board .contents-in .list1ea .photos_layer .photos-in {
+    height: auto;
+    padding: 7px 0 6px 6px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    -webkit-box-shadow: 0 0 0 1px rgba(0,0,0,.6);
+    box-shadow: 0 0 0 1px rgba(0,0,0,.6);
+    background: #fff
+}
+
+#thanks_board .contents-in .list1ea .photos_layer .photos-in .p_1ea {
+    display: inline-block;
+    position: relative;
+    padding-left: 3px;
+    margin: 4px 0 0 2px
+}
+
+#thanks_board .contents-in .list1ea .photos_layer .photos-in .p_1ea .thumnail_area2 {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    width: 62px;
+    height: 62px;
+    margin: 0;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #fff
+}
+
+#thanks_board .contents-in .list1ea .photos_layer .photos-in .p_1ea .thumnail_area2 img {
+    width: 62px;
+    height: 62px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    object-fit: cover
+}
+
+#thanks_board .contents-in .list1ea .photos_layer .photos-in .p_1ea .thumnail_area2 .layer_transparent-white2 {
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: 62px;
+    height: 62px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_photo-thum_layer_transparent-white.png') no-repeat 0 0;
+    background-size: 62px 62px
+}
+
+@media all and (max-width: 359px) {
+    #thanks_board .contents-in .list1ea .photos_layer {
+        width:300px;
+        margin: 6px 0 0 -150px
+    }
+
+    #thanks_board .contents-in .list1ea .photos_layer .photos-in {
+        padding: 7px 0 6px 8px
+    }
+}
+
+.transparent-mask_full {
+    position: fixed;
+    display: none;
+    z-index: 20;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0)
+}
+
+#thanks_board .contents-in .list1ea.woman .title.on p {
+    color: #d41e67
+}
+
+#thanks_board .contents-in .list1ea.woman .opened {
+    background: #ffd6db
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .womans-line1 {
+    display: block;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 1px;
+    margin-top: -1px;
+    background-color: #d4a1ae
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .womans-line2 {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1px;
+    margin-bottom: -1px;
+    background-color: #d4a1ae
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thumnail-in2 {
+    border: 1px solid #eabbc5
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 {
+    color: #7a465d
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 .label {
+    color: #432633
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 .label2 {
+    color: #432633
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 .vertical-line {
+    background-color: #8e516c
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .sex {
+    color: #5991c9
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 .sex {
+    color: #c12465
+}
+
+#thanks_board .contents-in .list1ea .opened .thanks_head-info2 .mask_1 {
+    color: #f7f7f7
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_head-info2 .mask_2 {
+    color: #ffd6db
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .thanks_between-line2 {
+    background-color: #eabbc5
+}
+
+#thanks_board .contents-in .list1ea.woman .opened .message {
+    color: #111;
+    padding-bottom: 7px
+}
+
+#moreBtn2 {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: 48px;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,1.0)
+}
+
+#moreBtn2 .appBtn2 {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    width: 96%;
+    height: 36px;
+    margin: 5px 0 5px -48%;
+    border: 1px solid #8e8e8e;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #fff;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#fff),to(#f7f7f7));
+    background-image: -moz-linear-gradient(top,#fff,#f7f7f7);
+    background-image: -o-linear-gradient(top,#fff,#f7f7f7);
+    background-image: linear-gradient(to bottom,#fff,#f7f7f7);
+    font-size: 1.05em;
+    font-weight: bold;
+    color: #333;
+    letter-spacing: 0;
+    line-height: 36px;
+    text-align: center
+}
+
+.thanks_id-sns {
+    display: inline-block;
+    margin-right: 20px
+}
+
+.thanks_id-sns .kakaotalk {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    width: 18px;
+    height: 18px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_id-sns_kakaotalk.png') no-repeat 0 0;
+    background-size: 18px 18px
+}
+
+.thanks_id-sns .naver {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    width: 18px;
+    height: 18px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_id-sns_naver.png') no-repeat 0 0;
+    background-size: 18px 18px
+}
+
+.thanks_id-sns .facebook {
+    display: inline-block;
+    position: absolute;
+    top: 1px;
+    width: 18px;
+    height: 18px;
+    background: url('http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/thanks_board_id-sns_facebook.png') no-repeat 0 0;
+    background-size: 18px 18px
+}
+
+.contents-in .count_c {
+    width: 100%;
+    height: 72px;
+    background-color: #f7ecf0;
+    font-size: 12px;
+    text-align: center;
+    color: #493335;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+    position: relative;
+    box-sizing: border-box;
+    border-bottom: 1px solid #decfd5
+}
+
+.count_c .count_n {
+    color: #c4414d;
+    font-size: 14px
+}
+
+.count_c .marry_n {
+    padding-top: 6px
+}
+
+.count_c .ment {
+    font-size: 13px;
+    font-weight: normal;
+    color: #493335;
+    margin-top: 2px
+}
+
+.count_c .ment .total_count {
+    font-weight: 600;
+    margin-left: 10px
+}
+
+.count_c .ment .total_count .total_count_num {
+    color: #0f2283;
+    font-weight: 800;
+    letter-spacing: .3px
+}
+
+.count_c .mail_btn,.count_c .review_btn {
+    position: absolute;
+    bottom: 8px;
+    width: 108px;
+    height: 26px;
+    background-color: #bc307f;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: 300;
+    line-height: 26px
+}
+
+.count_c .mail_btn:active,.count_c .review_btn:active {
+    background-color: #b12f78
+}
+
+.count_c .mail_btn {
+    position: relative;
+    top: 8px;
+    padding: 5px 40px;
+    left: -10px
+}
+
+.count_c .review_btn {
+    position: relative;
+    top: 8px;
+    padding: 5px 22px;
+    left: 10px
+}
+
+	/* [일감2373] */
+	.app_share_btn,
+	.app_mail_btn,
+	.app_review_btn {position:relative; display:inline-block; height:28px; border-radius:3px; color:#fff; line-height:28px;}
+	.app_share_btn {width:82px; margin:7px 6px 0 0; background-color: #f76d0a;}
+	.app_share_btn .ico {display:inline-block; width:26px; height:26px; margin:-3px 0 0 -7px; background:url('http://image.yeoboya.com/imgs/new_wedding/mobile/img/f_share_btn_ico.png') no-repeat; background-size:26px; vertical-align:middle;}
+	.app_mail_btn {width:82px; margin:7px 6px 0 0; background-color: #bc307f;}
+	.app_review_btn {width:108px; margin:7px 0 0 0; background-color: #bc307f;}
+
+.e_outmember .e_member_u>li>ul>li:nth-of-type(1) {
+    width: 30%
+}
+
+.e_outmember .e_member_u>li>ul>li:nth-of-type(2) {
+    width: 20%
+}
+
+.e_outmember .e_member_u>li>ul>li:nth-of-type(3) {
+    width: 21%
+}
+
+.e_outmember .e_member_u>li>ul>li:nth-of-type(4) {
+    width: 29%
+}
+
+.memberpop_bg {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+    z-index: 100;
+    padding: 0 10px;
+    box-sizing: border-box
+}
+
+.memberpop_bg .e_outmember {
+    position: relative;
+    width: 100%;
+    height: 388px;
+    background-color: #fff;
+    border: 1px solid #a8a8a8;
+    margin: 0 auto;
+    top: 98px;
+    border-radius: 3px;
+    box-sizing: border-box
+}
+
+.memberpop_bg .e_outmember h4 {
+    font-size: 16px;
+    color: #233847;
+    text-align: center;
+    margin: 21px 0 11px 0
+}
+
+.member_b .om_title li:nth-of-type(1) {
+    width: 30%
+}
+
+.member_b .om_title li:nth-of-type(2) {
+    width: 20%
+}
+
+.member_b .om_title li:nth-of-type(3) {
+    width: 21%
+}
+
+.member_b .om_title li:nth-of-type(4) {
+    width: 29%
+}
+
+.member_b .om_title {
+    height: 24px;
+    line-height: 24px
+}
+
+.om_title li {
+    float: left
+}
+
+.om_title {
+    background-color: #5369bc;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 14px;
+    text-align: center
+}
+
+.om_title:after {
+    clear: both;
+    content: '';
+    display: block
+}
+
+.e_outmember .member_b {
+    padding: 0 8px;
+    box-sizing: border-box;
+    text-align: center
+}
+
+.e_outmember .e_member_u {
+    height: 264px;
+    width: 100%
+}
+
+.e_outmember .e_member_u li {
+    height: 24px;
+    line-height: 24px;
+    width: 100%
+}
+
+.e_outmember .cls_btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45px;
+    height: 45px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks_sns/btn_cls.png) no-repeat center center;
+    background-size: 13px 13px
+}
+
+.e_outmember .list_nbtn {
+    display: inline-block;
+    margin-top: 10px
+}
+
+.e_outmember .list_nbtn a {
+    display: inline-block;
+    font-size: 12px;
+    color: #374148;
+    background: #fefefe;
+    background: -moz-linear-gradient(top,#fefefe 0,#eee 100%);
+    background: -webkit-linear-gradient(top,#fefefe 0,#eee 100%);
+    background: linear-gradient(to bottom,#fefefe 0,#eee 100%);
+    padding: 2px 8px;
+    border-radius: 2px;
+    border: 1px solid #d5d5d5;
+    text-align: center;
+    margin-right: 2px
+}
+
+.e_outmember .list_nbtn .num:active {
+    color: #fff;
+    background: #676767;
+    background: -moz-linear-gradient(top,#676767 0,#494949 100%);
+    background: -webkit-linear-gradient(top,#676767 0,#494949 100%);
+    background: linear-gradient(to bottom,#676767 0,#494949 100%);
+    border-radius: 3px
+}
+
+.e_outmember .list_nbtn .txts span img {
+    width: 6px;
+    height: 7px;
+    vertical-align: middle;
+    margin-bottom: 2px
+}
+
+#thanks_board .contents-in .intro_my {
+    position: relative;
+    font-size: 1em;
+    padding: 7px 13px;
+    background-color: #ffedef;
+    border-top: 1px dashed #d9a0a8;
+    box-sizing: border-box;
+    line-height: 1
+}
+
+.family_intro {
+    border-top: 0 !important
+}
+
+#thanks_board .contents-in .intro_hd {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+    color: #ae283d;
+    font-weight: 600;
+    padding-right: 3px;
+    font-size: .875em
+}
+
+#thanks_board .contents-in .hd_border {
+    position: absolute;
+    top: 11px;
+    left: 70px;
+    text-indent: -9999px;
+    width: 1px;
+    height: 12px;
+    vertical-align: middle;
+    background: #dfa3ac
+}
+
+#thanks_board .contents-in .intro_content {
+    color: #111;
+    font-size: .875em;
+    padding-left: 3px;
+    line-height: 1.37em;
+    padding-left: 64px
+}
+
+#thanks_board .contents-in .intro_dt_line {
+    box-sizing: border-box;
+    padding: 0 13px;
+    text-indent: -9999px;
+    background-color: #ffedef
+}
+
+#thanks_board .contents-in .intro_dt_line .dt_line {
+    width: 100%;
+    height: 1px;
+    background-color: #ebc7c7
+}
+
+#thanks_board .contents-in .woman_hd_bg {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/hd_woman.png) no-repeat 0 0;
+    background-size: 56px 20px
+}
+
+#thanks_board .contents-in .man_hd_bg {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/hd_man.png) no-repeat 0 0;
+    background-size: 56px 20px
+}
+
+#thanks_board .contents-in .intro_shadow {
+    display: inline
+}
+
+#thanks_board .contents-in .intro_shadow .shadow_img {
+    height: 18px;
+    display: block;
+    float: left
+}
+
+#thanks_board .contents-in .intro_shadow .shadow_first {
+    padding-left: 66px
+}
+
+#thanks_board .contents-in .intro_shadow .family_last {
+    display: inline !important;
+    margin-bottom: 0 !important
+}
+
+#thanks_board .contents-in .intro_shadow .shadow_line {
+    display: block;
+    width: 100%;
+    height: 20px;
+    margin-bottom: 4px;
+    box-sizing: border-box
+}
+
+#thanks_board .contents-in .intro_shadow .shadow_last {
+    display: inline
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid20 {
+    width: 20% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid30 {
+    width: 30% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid40 {
+    width: 40% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid60 {
+    width: 60% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid70 {
+    width: 70% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid80 {
+    width: 80% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid90 {
+    width: 90% !important
+}
+
+#thanks_board .contents-in .intro_shadow .sd_wid100 {
+    width: 100% !important
+}
+
+#thanks_board .contents-in .man_my {
+    background-color: #eaeaea !important;
+    border-top: 1px dashed #c3c1c1 !important
+}
+
+#thanks_board .contents-in .man_hd {
+    color: #4a7ec6 !important
+}
+
+#thanks_board .contents-in .man_family {
+    background-color: #eaeaea !important
+}
+
+#thanks_board .contents-in .man_intro_line {
+    box-sizing: border-box;
+    padding: 0 13px;
+    text-indent: -9999px;
+    background-color: #eaeaea
+}
+
+#thanks_board .contents-in .man_intro_line .dt_line_man {
+    width: 100%;
+    height: 1px;
+    background-color: #cbcbcb
+}
+
+#thanks_board .contents-in .man_border {
+    background-color: #bcbcbc !important
+}
+
+.badge_pack {
+    display: inline
+}
+
+.marry_info {
+    position: relative;
+    color: #333;
+    font-size: 12.8px;
+    letter-spacing: -0.5px;
+    margin-left: 3px
+}
+
+.marry_badge {
+    display: inline-block;
+    position: relative;
+    top: -1px;
+    left: -2px;
+    width: 14px;
+    height: 14px;
+    margin: 0 -3px 0 5px;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background-color: #29bf00;
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    line-height: 14px
+}
+
+#thanks_board .contents-in .intro_my .see_intro {
+    display: inline-block;
+    width: 38px;
+    height: 24px;
+    line-height: 22px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 3px 0 0 5px
+}
+
+#thanks_board .contents-in .intro_my .see_intro .see_man {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    box-sizing: border-box;
+    color: #555f64;
+    font-size: 13px;
+    border: 1px solid #c3c3c3;
+    border-radius: 5px
+}
+
+#thanks_board .contents-in .intro_my .see_intro .see_man:active {
+    background-color: #f8f8f8
+}
+
+#thanks_board .contents-in .list1ea .title .ico_hits {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/ico_hits3.png) no-repeat left 6px;
+    background-size: 16px 10px;
+    padding-left: 16px;
+    margin-left: 8px;
+    color: #909090;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px
+}
+
+#thanks_board .contents-in .list1ea .title .ico_hits2 {
+    margin-right: 6px;
+    color: #909090;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px;
+    float: right
+}
+
+.gift_bnr_box {
+    width: 100%;
+    height: auto;
+    background-color: #8b75df;
+    position: relative
+}
+
+.img_flower {
+    position: absolute;
+    top: 2px;
+    left: 25px
+}
+
+.gift_bnr_txt {
+    display: inline-block;
+    font-size: 13px;
+    color: #fff;
+    padding: 5px 27px 5px 64px
+}
+
+@media(min-width: 360px) {
+    .gift_bnr_txt {
+        font-size:15px
+    }
+}
+
+@media(min-width: 414px) {
+    .img_flower {
+        position:absolute;
+        top: 2px;
+        left: 44px
+    }
+
+    .gift_bnr_txt {
+        display: inline-block;
+        font-size: 15px;
+        color: #fff;
+        padding: 5px 27px 5px 88px
+    }
+}
+
+.img_flower_s {
+    display: inline-block;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/img/img_flower_1s.png) center center no-repeat;
+    background-size: 21px 23px;
+    width: 21px;
+    height: 23px;
+    vertical-align: text-bottom;
+    padding-left: 10px
+}
+
+#thanks_board .contents-in .list1ea .title .ico_hits {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/mobile/thanks/ico_hits3.png) no-repeat left 6px;
+    background-size: 16px 10px;
+    padding-left: 16px;
+    margin-left: 8px;
+    color: #909090;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px
+}
+
+#thanks_board .contents-in .list1ea .title .ico_hits2 {
+    margin-right: 6px;
+    color: #909090;
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 19px;
+    float: right
+}
+
+.gift_bnr_box {
+    width: 100%;
+    height: auto;
+    background-color: #8b75df;
+    position: relative;
+    padding-top: 117px
+}
+
+.img_gift {
+    position: absolute;
+    top: 5px;
+    left: 4px
+}
+
+.gift_bnr_txt {
+    display: inline-block;
+    font-size: 13px;
+    color: #fff;
+    padding: 5px 0 5px 70px
+}
+
+@media(min-width: 360px) {
+    .img_gift {
+        position:absolute;
+        top: 9px;
+        left: 7px
+    }
+
+    .gift_bnr_txt {
+        font-size: 15px;
+        padding: 5px 0 5px 76px
+    }
+}
+
+@media(min-width: 414px) {
+    .img_gift {
+        position:absolute;
+        top: 9px;
+        left: 21px
+    }
+
+    .gift_bnr_txt {
+        display: inline-block;
+        font-size: 15px;
+        padding: 5px 27px 5px 88px
+    }
+}
+
+.gift_box_s {
+    display: inline-block;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/img/gift_box_s.png) center center no-repeat;
+    background-size: 36px 23px;
+    width: 36px;
+    height: 23px;
+    vertical-align: text-bottom;
+    padding: 2px 0 0 12px
+}
+
+.gift_chk {
+
+    width: 53px;
+    height: 31px;
+    position: absolute;
+    right: 2px;
+    top: 32px
+}
+
+@media(min-width: 350px) {
+    .gift_chk {
+        width:63px;
+        height: 41px;
+        right: 18px
+    }
+}
+
+#thanks_board .contents-in .list1ea .title p {
+    overflow: visible !important
+}
+
+#thanks_board .gift_bl_f:before {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/img/gift_bl.png) no-repeat 0 0;
+    background-size: 200px 34px;
+    width: 200px;
+    height: 34px;
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -24px;
+    z-index: 100
+}
+
+@media(min-width: 500px) {
+    #thanks_board .gift_bl_f:before {
+        left:30%
+    }
+}
+
+.gift_ballon {
+    z-index: 200;
+    line-height: 16px;
+    position: absolute;
+    top: 84px;
+    right: 20px;
+    background-color: #8b75df;
+    box-sizing: border-box;
+    padding: 7px 10px;
+    border-radius: 6px
+}
+
+.ballon_txt {
+    color: #fff;
+    font-size: 13px;
+    background: url(http://image.yeoboya.com/imgs/new_wedding/img/gift_icon.png) no-repeat 0 5px;
+    background-size: 22px 23px;
+    padding: 7px 0 7px 26px
+}
+
+.gift_ballon:after {
+    background: url(http://image.yeoboya.com/imgs/new_wedding/img/gift_tail.png) no-repeat 0 0;
+    background-size: 14px 13px;
+    width: 14px;
+    height: 13px;
+    content: '';
+    position: absolute;
+    top: -12px;
+    right: 12px
+}
+
+.gift_ballon {
+    -webkit-animation-name: fadeIn;
+    animation-name: fadeIn;
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both
+}
+
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0
+    }
+
+    to {
+        opacity: 1
+    }
+}
+
+html,body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden
+}
+
+.thanks_wrap {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #fff
+}
+
+.thanks_wrap header {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0
+}
+
+.thanks_wrap .count_c {
+    position: absolute;
+    top: 45px;
+    right: 0;
+    left: 0;
+    z-index: 100;
+    width: 100%;
+    height: 72px;
+    background-color: #f7ecf0;
+    font-size: 12px;
+    text-align: center;
+    color: #493335;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #decfd5
+}
+
+.thanks_wrap .count_c .ment {
+    margin-top: 0
+}
+
+.thanks_wrap #thanks_board {
+    position: relative;
+    overflow-y: auto
+}
+
+.thanks_wrap .gift_bnr_box {
+    position: relative;
+    height: 48px
+}
+
+.thanks_wrap .img_gift {
+    top: 122px
+}
+
+.thanks_wrap .gift_bnr_txt {
+    display: block;
+    height: 100%;
+    box-sizing: border-box;
+    line-height: 19px
+}
+
+.transi_0 {
+    transform: translateY(0);
+    -webkit-transform: translateY(0);
+    transition: transform 0s;
+    -webkit-transition: -webkit-transform 0s
+}
+
+.transi_45 {
+    transform: translateY(-45px);
+    -webkit-transform: translateY(-45px);
+    transition: transform .3s;
+    -webkit-transition: -webkit-transform .3s
+}
+
+.transi_45 #thanks_board {
+    transform: translateY(-48px);
+    -webkit-transform: translateY(-48px);
+    transition: transform .3s;
+    -webkit-transition: -webkit-transform .3s
+}
+
+#thanks_board .contents-in .list1ea .title .date {
+    position: relative;
+    margin: 0 3px 0 8px;
+    color: #909090;
+    font-weight: normal;
+    font-size: 13px
+}
